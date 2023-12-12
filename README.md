@@ -1,7 +1,7 @@
 # 3D ROC Curve Evaluation Tool for Anomaly Detection:
 
 This is the python version for  [“An Effective Evaluation Tool for Hyperspectral Target Detection: 3D Receiver Operating Characteristic Curve Analysis”](https://ieeexplore.ieee.org/abstract/document/9205919). 
-The evaluation metrics developed based on the 3D ROC Curve can be used to evaluate general anomaly detection and hyperspectral target detection.
+The evaluation metrics developed based on the 3D ROC Curve can be used to evaluate general anomaly detection, infrared small target detection, and hyperspectral target detection.
 
 The 3D ROC Curve introduces segmentation thresholds on top of the 2D ROC Curve and derives several evaluation metrics.
 However, the 3D ROC Curve overlooks the fact that different detectors may have different response ranges, which can sometimes lead to distortion in these metrics.
